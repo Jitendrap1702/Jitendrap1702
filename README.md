@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 , This is Hrithik Sharma</h2>
+<h2 align="center">Hi there 👋 , This is Jitendra Patel</h2>
 
 ### I am a passionate programmer from INDIA
  
