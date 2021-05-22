@@ -44,11 +44,11 @@ Below are some factors I’m currently busy with:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder481&theme=radical&hide=css,html,c,Jupyter Notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrap1702&theme=radical&hide=css,html,c,Jupyter Notebook" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Coder481&count_private=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Hrithik's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendrap1702&count_private=true&show_icons=true&theme=radical&line_height=27&v=5" alt="Jitendra's github stats" />
 </a>
 
 
