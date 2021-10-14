@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Java, Python and Android App developer from India</h3>
  
 
-- 🌱 I’m currently learning on Data Structures and Algorithm
+- 🌱 I’m currently learning Data structure and Algorithm
 <!-- - 🔭 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on Android App Projects
 <!-- - 🤔 I’m looking for help with ... -->
