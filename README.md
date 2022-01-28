@@ -28,6 +28,7 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
+<div align="center>
 <p> 
  <a href="https://firebase.google.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -65,7 +66,7 @@
  <img src="https://img.icons8.com/ios/2x/markdown--v2.png" alt="Markdown" width="40" height="40"/>
  </a>
 </p>
-
+</div>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrap1702&theme=radical&hide=css,html,c,Jupyter Notebook" />
