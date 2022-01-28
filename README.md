@@ -28,18 +28,42 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Android_software_development" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="android" width="40" height="40"/></a> 
-<a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA" target="_blank">  <img src="https://github.com/jitendrap1702/CDN/blob/main/ICONS/intellij.svg" alt="intelliJ" width="40" height="40"/>
+<p> 
+ <a href="https://firebase.google.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+ </a> 
+ &nbsp;
+<a href="https://en.wikipedia.org/wiki/Android_software_development" target="_blank">
+ <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
+ </a>
+ &nbsp;
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="android" width="40" height="40"/>
 </a> 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://github.com/jitendrap1702/CDN/blob/main/ICONS/c.svg" alt="C++" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" alt="C" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" alt="html" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="css" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png" alt="vsCode" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/django-1-282754.png" alt="django" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/Terminal" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/terminal-2229455-1858303.png" alt="terminal" width="40" height="40"/></a>
+ &nbsp;
+<a href="https://kotlinlang.org/" target="_blank">
+ <img src="https://img.icons8.com/color/2x/kotlin.png" alt="kotlin" width="40" height="40"/>
+</a> 
+ &nbsp;
+<a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA" target="_blank">
+ <img src="https://github.com/Coder481/CDN/blob/main/ICONS/intellij.svg" alt="intelliJ" width="40" height="40"/>
+ </a>
+ &nbsp;
+<a href="https://developer.android.com/studio" target="_blank">
+ <img src="https://img.icons8.com/fluency/2x/4a90e2/android-studio--v3.png" alt="AndroidStudio" width="40" height="40"/>
+ </a>
+ &nbsp;
+ <a href="https://code.visualstudio.com/download" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png" alt="vsCode" width="40" height="40"/>
+ </a>
+ &nbsp;
+ <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+ </a>
+ &nbsp;
+<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank">
+ <img src="https://img.icons8.com/ios/2x/markdown--v2.png" alt="Markdown" width="40" height="40"/>
+ </a>
 </p>
 
 
