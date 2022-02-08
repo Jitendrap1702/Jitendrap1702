@@ -23,11 +23,7 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jitendra.13/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jitendr50879351)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitendrap1702@gmail.com)
- 
- &nbsp;
-<a href="https://medium.com/@hrithik481" target="blank">
- <img src="https://img.icons8.com/ios-filled/72/medium-monogram--v2.gif"alt="jitendra_patel" width=45 height=45/>
- </a>
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://medium.com/@jitendrap1702)
   
 </div>
 
