@@ -2,7 +2,7 @@
 
 <!-- <h2 align="center">Hi 👋, I'm Jitendra Patel</h2> -->
 
-<h3 align="center">A passionate Java, Python and Android App developer from India</h3>
+<h3 align="center">A passionate Java, Python Programmer and Android App developer from India</h3>
  
 
 - 🌱 I’m currently learning Data structure and Algorithm
