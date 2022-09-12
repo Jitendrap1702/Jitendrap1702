@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <!-- - 🌱 I’m currently android app developer @[TheStreamLiners](https://github.com/The-Streamliners) -->
-- 💻 I spent my free time on [CodeForces](https://codeforces.com/profile/jeetu_48) , [CodeChef](https://www.codechef.com/users/jeetu_48) and [HackerRank](https://www.hackerrank.com/jitendrap1702)
+<!- 💻 I spent my free time on [CodeForces](https://codeforces.com/profile/jeetu_48) , [CodeChef](https://www.codechef.com/users/jeetu_48) and [HackerRank](https://www.hackerrank.com/jitendrap1702) -->
 <!-- - 👯 When I bored from coding , I keep myself busy in playing games and watching movies -->
 <h3 align="center">Connect with me:</h3>
 <div align="center">
